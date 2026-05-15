@@ -35,4 +35,5 @@ int main()
 		scanf(" %c", &dalje);
 	}
 	printf("Prosek: %.2f\n", (float)zbir / i);
+	printf("Broj ocena: %d\n", i);
 }
